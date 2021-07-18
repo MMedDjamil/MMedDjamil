@@ -3,6 +3,8 @@
 - 🏠 I’m currently living at Béjaïa City, Algeria. <br/>
 - 👨‍💻 I’m currently working on my own project.<br/>
 - 🌱 I’m currently learning Flutter.<br/>
+
+## 🎓 Education
 <!--
 **MMedDjamil/MMedDjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
