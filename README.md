@@ -9,21 +9,21 @@
 ## 🛠️ Skills
 <h4>Languages :</h4>
 
-![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&color=4AB197)
-![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=blue&color=4AB197)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=orange&color=4AB197)
-![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&color=4AB197)
-![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=blue&color=4AB197)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=4AB197)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=orange&color=4AB197)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&color=4AB197)
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 <h4>Framework :</h4>
 
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=green&color=4AB197)
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&color=4AB197)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=green&color=4AB197)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&color=4AB197)
 <h4>DataBase :</h4>
 
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 <!--
 **MMedDjamil/MMedDjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
