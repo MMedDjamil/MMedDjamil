@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=blue&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=orange&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=4AB197)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4AB197)
 <br/>
