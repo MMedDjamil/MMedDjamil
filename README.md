@@ -1,6 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="hello.gif" /></a>
 <h1 align="center">Hi <img src="https://github.com/MMedDjamil/MMedDjamil/blob/master/hi.gif" width="40px" />, I'm MAOUCHI MED DJAMIL  </h1>
 <h3 align="center"> (aka JIMMY) </h3>
+<a href="#"><img width="100%" height="auto" src="hello.gif" /></a>
+
 
 ## 🙋‍♂️ About me
 - 🏠 I’m currently living at Béjaïa City, Algeria. <br/>
