@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/MMedDjamil/MMedDjamil/blob/master/hi.gif" width="40px" />, I'm Akshit</h1>
+<h1 align="center">Hi <img src="https://github.com/MMedDjamil/MMedDjamil/blob/master/hi.gif" width="40px" />, I'm MAOUCHI Med Djamil (Aka Jimmy) </h1>
 
 <!--
 **MMedDjamil/MMedDjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
