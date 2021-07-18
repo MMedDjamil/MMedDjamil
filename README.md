@@ -1,3 +1,4 @@
+[![Jimmy GitHub Banner](./hello.gif)]
 <h1 align="center">Hi <img src="https://github.com/MMedDjamil/MMedDjamil/blob/master/hi.gif" width="40px" />, I'm MAOUCHI MED DJAMIL  </h1>
 <h3 align="center"> (aka JIMMY) </h3>
 
