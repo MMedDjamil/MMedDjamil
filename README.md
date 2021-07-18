@@ -19,9 +19,9 @@
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <h4>Framework :</h4>
 
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=green&color=4AB197)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&color=4AB197)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <h4>Tools :</h4>
 
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobeps&color=4AB197)
