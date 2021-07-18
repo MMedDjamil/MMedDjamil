@@ -8,9 +8,9 @@
 
 ## Skills
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=4AB197)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=4AB197)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
