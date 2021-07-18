@@ -25,16 +25,11 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<h4>Tools :</h4>
-
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobeps&color=4AB197)
-![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&color=4AB197)
-![](https://img.shields.io/badge/Notion-informational?style=flat&logo=notion&color=4AB197)
-
 <h4>DataBase :</h4>
 
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--
 **MMedDjamil/MMedDjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
