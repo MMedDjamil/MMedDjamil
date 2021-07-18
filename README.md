@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Flutter.<br/>
 
 ## 🛠️ Skills
-<h3>Languages:  </h3>
+Languages:
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=blue&color=4AB197)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=orange&color=4AB197)
