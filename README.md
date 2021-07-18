@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=blue&color=4AB197)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=orange&color=4AB197)
 ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&color=4AB197)
 ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=blue&color=4AB197)
