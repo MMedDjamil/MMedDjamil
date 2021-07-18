@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/MMedDjamil/MMedDjamil/blob/master/hi.gif" width="40px" />, I'm MAOUCHI MED DJAMIL (aka JIMMY) </h1>
 
+## About me
+
 <!--
 **MMedDjamil/MMedDjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
