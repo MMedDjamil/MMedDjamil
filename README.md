@@ -23,7 +23,9 @@
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&color=4AB197)
 <h4>Tools :</h4>
 
-![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=photoshop&color=4AB197)
+![](https://img.shields.io/badge/Adobe XD-informational?style=flat&logo=adobexd&color=4AB197)
+![](https://img.shields.io/badge/Notion-informational?style=flat&logo=notion&color=4AB197)
 
 <h4>DataBase :</h4>
 
