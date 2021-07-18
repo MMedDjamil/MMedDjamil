@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/MMedDjamil/MMedDjamil/blob/master/hi.gif" width="40px" />, I'm MAOUCHI MED DJAMIL (aka JIMMY) </h1>
 
+## 🙋‍♂️ About me
 - 🏠 I’m currently living at Béjaïa City, Algeria. <br/>
 - 👨‍💻 I’m currently working on my own project.<br/>
 - 🌱 I’m currently learning Flutter.<br/>
