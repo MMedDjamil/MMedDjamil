@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently working on my own project.<br/>
 - 🌱 I’m currently learning Flutter.<br/>
 
-## Skills
+## 🛠️ Skills
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=blue&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=orange&color=4AB197)
