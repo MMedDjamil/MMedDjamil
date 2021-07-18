@@ -4,7 +4,11 @@
 - 👨‍💻 I’m currently working on my own project.<br/>
 - 🌱 I’m currently learning Flutter.<br/>
 
-## 🎓 Education
+## Skills
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 <!--
 **MMedDjamil/MMedDjamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
